@@ -1,4 +1,4 @@
-# Market-Relative-Volatility-RVOL-Alert-Dashboard
+# Market-Relative-Volume-RVOL-Alert-Dashboard
 
 # 📊 Intraday RVOL Scanner
 
