@@ -24,10 +24,6 @@ This project uses **Yahoo Finance’s API (via yfinance)** to fetch live intrada
 
 The **RVOL (Relative Volume)** metric compares a ticker’s *current intraday volume* to its *average volume at the same time over previous days*:
 
-\[
-\text{RVOL} = \frac{\text{Current Volume}}{\text{Average Volume (Same Time, Past Days)}}
-\]
-
 Tickers exceeding a chosen threshold (default = 2.0×) are flagged as **high-activity securities**, potentially indicating institutional interest, volatility spikes, or news-driven movement.
 
 ---
